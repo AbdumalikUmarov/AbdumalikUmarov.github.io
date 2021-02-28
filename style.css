@@ -1,0 +1,18 @@
+h1,h2{
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+strong
+{
+    color: yellow;
+}
+body{
+    background-color: #4f443a;
+}
+p, li{
+    font-family: cursive;
+    color: white;
+}
+a{
+    color: red;
+}
